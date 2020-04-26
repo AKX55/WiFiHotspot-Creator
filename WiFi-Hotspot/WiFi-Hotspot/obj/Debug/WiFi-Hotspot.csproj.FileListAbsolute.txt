@@ -1,0 +1,11 @@
+C:\Users\aKil\source\repos\WiFi-Hotspot\WiFi-Hotspot\bin\Debug\WiFi-Hotspot.exe.config
+C:\Users\aKil\source\repos\WiFi-Hotspot\WiFi-Hotspot\bin\Debug\WiFi-Hotspot.exe
+C:\Users\aKil\source\repos\WiFi-Hotspot\WiFi-Hotspot\bin\Debug\WiFi-Hotspot.pdb
+C:\Users\aKil\source\repos\WiFi-Hotspot\WiFi-Hotspot\obj\Debug\WiFi-Hotspot.csprojAssemblyReference.cache
+C:\Users\aKil\source\repos\WiFi-Hotspot\WiFi-Hotspot\obj\Debug\WiFi_Hotspot.MainForm.resources
+C:\Users\aKil\source\repos\WiFi-Hotspot\WiFi-Hotspot\obj\Debug\WiFi_Hotspot.Properties.Resources.resources
+C:\Users\aKil\source\repos\WiFi-Hotspot\WiFi-Hotspot\obj\Debug\WiFi-Hotspot.csproj.GenerateResource.cache
+C:\Users\aKil\source\repos\WiFi-Hotspot\WiFi-Hotspot\obj\Debug\WiFi-Hotspot.exe
+C:\Users\aKil\source\repos\WiFi-Hotspot\WiFi-Hotspot\obj\Debug\WiFi-Hotspot.pdb
+C:\Users\aKil\source\repos\WiFi-Hotspot\WiFi-Hotspot\obj\Debug\WiFi_Hotspot.AlertForm.resources
+C:\Users\aKil\source\repos\WiFi-Hotspot\WiFi-Hotspot\obj\Debug\WiFi_Hotspot.EditForm.resources

@@ -1,0 +1,11 @@
+C:\Users\aKil\source\repos\WiFi-Hotspot\WiFi-Hotspot\bin\Release\WiFi-Hotspot.exe.config
+C:\Users\aKil\source\repos\WiFi-Hotspot\WiFi-Hotspot\bin\Release\WiFi-Hotspot.exe
+C:\Users\aKil\source\repos\WiFi-Hotspot\WiFi-Hotspot\bin\Release\WiFi-Hotspot.pdb
+C:\Users\aKil\source\repos\WiFi-Hotspot\WiFi-Hotspot\obj\Release\WiFi-Hotspot.csprojAssemblyReference.cache
+C:\Users\aKil\source\repos\WiFi-Hotspot\WiFi-Hotspot\obj\Release\WiFi_Hotspot.AlertForm.resources
+C:\Users\aKil\source\repos\WiFi-Hotspot\WiFi-Hotspot\obj\Release\WiFi_Hotspot.EditForm.resources
+C:\Users\aKil\source\repos\WiFi-Hotspot\WiFi-Hotspot\obj\Release\WiFi_Hotspot.MainForm.resources
+C:\Users\aKil\source\repos\WiFi-Hotspot\WiFi-Hotspot\obj\Release\WiFi_Hotspot.Properties.Resources.resources
+C:\Users\aKil\source\repos\WiFi-Hotspot\WiFi-Hotspot\obj\Release\WiFi-Hotspot.csproj.GenerateResource.cache
+C:\Users\aKil\source\repos\WiFi-Hotspot\WiFi-Hotspot\obj\Release\WiFi-Hotspot.exe
+C:\Users\aKil\source\repos\WiFi-Hotspot\WiFi-Hotspot\obj\Release\WiFi-Hotspot.pdb
